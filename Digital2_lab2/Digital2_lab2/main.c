@@ -1,9 +1,12 @@
-/*
- * Digital2_lab2.c
- *
- * Created: 19/07/2024 10:56:01
- * Author : Snake
- */ 
+//****************************************************************************
+// Universidad del Valle de Guatemala
+// IE3054: Electronica Digital 2
+// Autor: Oscar Melchor
+// Proyecto: Pantalla LCD
+// Archivo: Digital2_lab2.c
+// Hardware : ATMEGA328P
+// Created: 19/07/2024 10:56:01
+//****************************************************************************
 #define F_CPU 16000000UL
 
 #include <avr/io.h>
